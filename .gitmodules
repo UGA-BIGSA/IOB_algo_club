@@ -4,3 +4,6 @@
 [submodule "SachinSubedi_IOB_algo_club"]
 	path = SachinSubedi_IOB_algo_club
 	url = https://github.com/sachin11645/SachinSubedi_IOB_algo_club.git
+[submodule "ChrisEsselman_IOB_algo_club"]
+	path = ChrisEsselman_IOB_algo_club
+	url = https://github.com/esselmanc123/ChrisEsselman_IOB_algo_club.git
