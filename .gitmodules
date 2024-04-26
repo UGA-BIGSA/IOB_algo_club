@@ -7,3 +7,6 @@
 [submodule "ChrisEsselman_IOB_algo_club"]
 	path = ChrisEsselman_IOB_algo_club
 	url = https://github.com/esselmanc123/ChrisEsselman_IOB_algo_club.git
+[submodule "RanZhou_IOB_algo_club"]
+	path = RanZhou_IOB_algo_club
+	url = https://github.com/RanZhou/RanZhou_IOB_algo_club
